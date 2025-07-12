@@ -12,6 +12,7 @@ export default function Navbar() {
         <Link to="/attendance" className="hover:underline">Attendance</Link>
         <Link to="/reimbursements" className="hover:underline">Reimbursements</Link>
         <Link to="/catalogue" className="hover:underline">Catalogue</Link>
+        <Link to="/analytics" className="hover:underline">Analytics</Link>
       </div>
     </nav>
   );
